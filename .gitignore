@@ -154,3 +154,5 @@ cython_debug/
 # The file that contains the instruction to follow
 #
 configuration.json
+
+actions/*
